@@ -5,8 +5,10 @@ Cursando Análise e Desenvolvimento de Sistemas, apaixonado por desenvolvimento 
 ---
 
 ### 📚 Atualmente estou estudando:
+- JavaScript
+- HTML
+- CSS
 - POO Java ☕
-- C 🔵
 - Estrutura de Dados e Algoritmos
 - Git e GitHub
 
@@ -26,6 +28,9 @@ Em breve novos projetos por aqui 😄
 ### 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
