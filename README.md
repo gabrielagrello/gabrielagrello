@@ -18,8 +18,7 @@ Cursando Análise e Desenvolvimento de Sistemas, apaixonado por desenvolvimento 
 
 📌 Alguns dos projetos que desenvolvi e estou aprimorando:
 
-- 🎮 **Super Trunfo em C** – jogo que compara atributos de cidades 
-- 📦 **Sistema de Controle de Estoque em Java**
+-  **Sistema de Controle de Estoque Web**
 
 Em breve novos projetos por aqui 😄
 
