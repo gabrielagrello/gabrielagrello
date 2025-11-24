@@ -5,6 +5,9 @@ Cursando Análise e Desenvolvimento de Sistemas, apaixonado por desenvolvimento 
 ---
 
 ### 📚 Atualmente estou estudando:
+- React
+- Node.Js
+- Next.Js
 - JavaScript
 - HTML
 - CSS
