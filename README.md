@@ -17,16 +17,6 @@ Cursando Análise e Desenvolvimento de Sistemas, apaixonado por desenvolvimento 
 
 ---
 
-### 💻 Meus Projetos
-
-📌 Alguns dos projetos que desenvolvi e estou aprimorando:
-
--  **Sistema de Controle de Estoque Web**
-
-Em breve novos projetos por aqui 😄
-
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
